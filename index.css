@@ -1,0 +1,249 @@
+script {
+    display: none;
+}
+
+.centralizarComTamanhoMaximo {
+    margin: 0 auto;
+    max-width: 1100px;
+}
+
+.mainMenu {
+    background-color: transparent;
+    padding: 70px 0 75px 110px;
+    margin: .5rem 0 0;
+    z-index: 0;
+}
+
+header h1 {
+    float: left;
+    margin: 0 0 .5rem 0;
+    z-index: 2;
+}
+
+h2 {
+  
+  font-size: 100px;
+  text-align: center;
+  top: 10000%;
+  z-index: inherit;;
+  color: black;
+  font-family: fantasy;
+
+  
+}
+
+.mainMenu>ul li {
+    font-weight: 700;
+    list-style: none;
+}
+
+.mainMenu ul li {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: .5em .6em;
+    margin: 0 5%;
+}
+
+a img {
+    vertical-align: text-bottom;
+}
+
+
+img {
+  max-width: 100%;
+  background-color: #ddd;
+  border-radius: 50%;
+  height: 200px;
+  object-fit: cover;
+  width: 200px;  
+}
+
+body {
+    background: #fff;
+    color: #fff;
+    font-family: Bitter,serif;
+    font-size: 16px;
+    line-height: 1.46;
+    letter-spacing: .05rem;
+}
+
+.fonte {
+ background: rgba(230, 226, 4, 0.932);
+ color: #FFF;
+ text-decoration: none;
+ font-weight: bold;
+ border-width: 4px;
+ border-style: solid;
+ border-top-color: rgba(243, 228, 11, 0.918);
+ border-right-color: rgb(224, 228, 11);
+ border-bottom-color: rgba(236, 240, 13, 0.788);
+ border-left-color: #e7d807e1;
+ top:100px;
+ float: left;
+ align-content: center;
+
+}
+
+.p {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: century ;
+}
+ 
+ .titulo-principal {
+    text-align: center;
+    background-color: pink;
+    color: #FFF;
+    padding: 25px;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.014);
+    font-size: 10px;
+    text-transform: uppercase;
+    top: 0px;
+    font-size: 15px;
+    clear: both;
+    
+}
+
+#blocks-home {
+    float: left;
+    width: 950px;
+    border-top: 1pt #666 solid;
+    padding-top: 20px;
+}
+
+
+.square-home {
+    background-color: white;
+    float: left;
+    width: 185px;
+    height: 900px;
+    text-align: left;
+    margin: 0 3px 10px;
+    padding: 5px 40px;
+    border: 1pt rgb(235, 220, 9) solid;
+}
+
+.square-home ul {
+    font-size: 1.2em;
+    line-height: 24px;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    font-size: 16px;
+    top:0px;
+    float: left;
+}
+
+div {
+    display: block;
+}
+body {
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+article {
+  margin-right: 40%;
+  margin-left: 10%;
+}
+
+body{
+  background-image:url(https://farmaciasbigfort.com.br/wp-content/uploads/2018/10/Tradicionais-7.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: MidnightBlue;
+  
+}
+
+.subtitulo-texto {
+    font-size: 30px;
+    clear: both;
+    color: #141414e7;
+}
+
+.citacao-bio {
+    
+    border: 10px solid;
+    width: 500px;
+    box-sizing: border-box;
+    margin: 20px 40px;
+    padding: 20px;
+    align-content: center;
+    background-color: rgba(236, 250, 41, 0.884);
+    
+}
+
+blockquote, q {
+    quotes: none;
+    align-content: center;
+    width:200px;
+}
+
+.petrobras {
+    float: left;
+}
+
+article {
+  margin-right: 20%;
+  margin-left: 15%
+}
+
+p {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    
+}
+
+
+
+.imgreceitas{
+ width: 150px;
+ display: inline-block;
+  
+}
+
+.imgexer{
+  width: 150px;
+  height: 80px;
+  font-size: 150px;
+}
+
+.exerc{
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+
+.bodyexerc {
+  background:white;
+  width: 70%;
+  margin: auto;
+  padding: 0px;
+  vertical-align: baseline;
+  color: black;
+}
+
+
